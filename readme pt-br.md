@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](https://github.com/NiiMiyo/NiiMiyo/blob/main/readme.md) - [Português](https://github.com/NiiMiyo/NiiMiyo/blob/main/readme%20pt-br.md)
+[English](https://github.com/NiiMiyo/NiiMiyo/blob/main/README.md) - [Português](https://github.com/NiiMiyo/NiiMiyo/blob/main/readme%20pt-br.md)
 
 # 🧑🏽 Sobre mim
 
