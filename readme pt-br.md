@@ -35,7 +35,8 @@
 # 📊 Stats do GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NiiMiyo&show_icons=true&hide_title=true&hide_border=false&include_all_commits=true&ring_color=744DA9&icon_color=744DA9&text_color=FFFFFF&text_bold=true&bg_color=170f21&border_color=744DA9&locale=pt-br&disable_animations=false&count_private=false"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NiiMiyo&hide_title=true&hide_border=false&text_color=FFFFFF&bg_color=170f21&layout=default&border_color=744DA9&langs_count=4"/></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NiiMiyo&hide_title=true&hide_border=false&text_color=FFFFFF&bg_color=170f21&border_color=744DA9&langs_count=4"/></a>
 
 </div>
 
